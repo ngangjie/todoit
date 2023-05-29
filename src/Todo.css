@@ -1,0 +1,21 @@
+.todo_list {
+    display: flex;
+    flex: 1 1 0%;
+    justify-content: space-between;
+    margin-right: 150px;
+    border: 2px black solid;
+}
+
+ul{
+    width :60%;
+    margin-right: 1300px;
+}
+
+.todo_list .btn {
+    display: flex;
+    margin: 1rem;
+} 
+.main {
+    margin-left: 100px;
+   
+}
